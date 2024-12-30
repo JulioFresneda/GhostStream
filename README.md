@@ -1,4 +1,4 @@
-![logo](screenshots/logo.png)
+![logo](screenshots/header.png)
 # GhostStream
 ## Don't be scared! Some ghosts are cute.
 
