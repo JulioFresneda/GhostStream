@@ -107,9 +107,7 @@ Experience the sleek UI of GhostStream:
 
 ### Setting Up GhostServer
 
-1. Run the daemon (executable).
-2. Configure DuckDNS for DDNS support (optional but recommended).
-3. Add media with tools provided!
+Check out the repository README :)
 
 ### Running GhostClient
 
