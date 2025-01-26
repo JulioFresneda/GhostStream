@@ -1,7 +1,7 @@
 ![logo](screenshots/header.png)
 # Don't be scared! Some ghosts are cute.
 
-This project was born out of a collapse of motivations within myself. I always thought it would be cool as hell to have a private "Netflix" app where no movie or series is ever removed, and everything I want is always available. My future son will not watch any fucking Disney Channel cartoons; instead, he will watch Goten being completely beaten the shit out of  by Cell, which is, of course, much healthier content for a kid.
+This project was born out of a collapse of motivations within myself. I always thought it would be cool as hell to have a private "Netflix" app where no movie or series is ever removed, and everything I want is always available. My future son will not watch any fking Disney Channel cartoons; instead, he will watch Goten being completely beaten the shit out of  by Cell, which is, of course, much healthier content for a kid.
 
 
 
